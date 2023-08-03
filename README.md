@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natenear&show_icons=true&locale=en" alt="natenear" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natenear&" alt="natenear" /></p>
+<a href="https://app.daily.dev/Nate"><img src="https://api.daily.dev/devcards/e58735257b7941f380fd20586ac0b456.png?r=1cm" width="400" alt="Hari's Dev Card"/></a>
