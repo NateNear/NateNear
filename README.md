@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **askharindrareddy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a0ZGg2mWAPIgvGxjPmt8y-9IcZGajNEC/view](https://drive.google.com/file/d/1a0ZGg2mWAPIgvGxjPmt8y-9IcZGajNEC/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1L-RXBJJ-mSqF-Gk7kX1QVJI4JUqBVH1N/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
